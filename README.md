@@ -45,12 +45,6 @@
   <summary><b>:zap: GitHub Profile Stat</b></summary>
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Github-Aiko&show_icons=true" />
 </details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Github-Aiko/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Github-Aiko&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
 
 <!-- GitHub section: END -->
 
